@@ -8,14 +8,14 @@ description:  The Home of Lady Bee Mixology Gourmet Cocktails
 content: Lady Bee Mixology is a vibrant Jamaican cocktail brand redefining the art of ready‑to‑drink beverages with bold creativity and authentic island flavour.
 # Add your social links
 social:
-  - platform: github
-    url: https://github.com/brianmaierjr
-  - platform: facebook
-    url: https://facebook.com/brianmaierjr
-  - platform: twitter
-    url: https://twitter.com/brianmaierjr
-  - platform: linkedin
-    url: brianmaierjr
+  - platform: instagram
+    url: https://instagram.com/ladybeemixology
+ # - platform: facebook
+ #   url: https://facebook.com/brianmaierjr
+ # - platform: twitter
+ #   url: https://twitter.com/brianmaierjr
+ # - platform: linkedin
+ #S   url: brianmaierjr
 
 # General settings
 # url: http://brianmaierjr.github.com/uni
